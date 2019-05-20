@@ -51,5 +51,5 @@ in which the color transition takes 0.67 seconds and this is repeated indefinite
 Note that if the size of two lists are different, an error will be thrown.
 
 **If the above code is not working try passing the arguements with their parameter names**
-**Eg:**
-**color(text=['green','black','red'],bg=['blue','aqua','bright white'],delay=0.5,repeat=5)**
+#### **Eg:**
+#### **color(text=['green','black','red'],bg=['blue','aqua','bright white'],delay=0.5,repeat=5)**
