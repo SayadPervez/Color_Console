@@ -54,4 +54,4 @@ Note that if the size of two lists are different, an error will be thrown.
 #### **Eg:**
 #### **color(text=['green','black','red'],bg=['blue','aqua','bright white'],delay=0.5,repeat=5)**
 #     A PROJECT BY SAYAD PERVEZ 
-#     pervez2504@gmail.com
+#     EmailId:"pervez2504@gmail.com"
